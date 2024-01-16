@@ -1,0 +1,6 @@
+var name=prompt("enter your name")
+var gmail=prompt("enter your email")
+var age=prompt("enter your age")
+alert("name is "+name)
+alert("age is "+age)
+alert("gmail is"+gmail)
